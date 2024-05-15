@@ -9,6 +9,3 @@ This repository is dedicated to sharing web applications freely. Below is a list
 <br>
 
  Feel free to explore and make use of these projects. Everyone is welcome to contribute and collaborate.
-
- ---
-**⚠️ Note:** This repository is open for collaboration and contributions from anyone. You are encouraged to explore, use, and contribute to the projects available here.
